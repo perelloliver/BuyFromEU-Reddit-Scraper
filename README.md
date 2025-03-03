@@ -8,3 +8,8 @@ Required:
 - Mistral API key, paid tier
 - Reddit developer project credentials
 - A reddit account
+
+How to:
+
+- If you wish to run this in your own environment, download the notebook and use it locally.
+- Otherwise, use the colab notebook [here](https://colab.research.google.com/drive/1PFoK4InWpeM63f-yQ3isTfI5fr5Mta1q?usp=sharing).
