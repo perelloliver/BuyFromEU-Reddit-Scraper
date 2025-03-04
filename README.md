@@ -16,5 +16,6 @@ How to:
 
 Approximate cost: Under 5EUR in LLM costs.
 
+Todo: Data formatting needs improvement. For example, list strings and misformatted items. No item in the european column should appear in the american column. Etc..
 Notes:
 - If you are running to re-collect data as more posts are shared, adjust the timeframe in the code to avoid scraping and processing duplicate information.
